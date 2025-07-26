@@ -1,0 +1,33 @@
+unlike most games with a computer interface life does not have
+  clear objectives
+  visual cues to tell me what to do
+  or feedback mechanics to show me how I have advanced in it
+
+one has to design their own game
+  along with clear goals
+  meaningful objectives
+  and creative feedback systems
+
+Coonradt:
+  "Why would people pay for the privilege of working harder at
+  their chosen sport or recreational pursuit
+  than they would work at a job where they were being paid?"
+
+  He then got to five conclusions that led to hobbies being more preferable to work
+
+    Clearly defined goals
+    Better scorekeeping and scorecards
+    More frequent feedback
+    A higher degree of personal choice of methods
+    Consistent coaching
+
+Human-Focused Design: The Better Term for Gamification
+
+  Most systems are inherently "function-focused"
+    designed to get the job done quickly
+    like a factory that assumes its workers will do their jobs because they are required to
+    not because they necessarily want to perform the associated tasks
+
+  Human-Focused Design emphasizes that people aren't rudimentary cogs in a system.
+    We have feelings, ambitions, insecurities, and reasons for whether or not we want to do certain things.
+    Human-Focused Design optimizes for these feelings, motivations, and engagement as the basic foundation for designing the overall system as well as its functions.
