@@ -31,3 +31,4 @@ Human-Focused Design: The Better Term for Gamification
   Human-Focused Design emphasizes that people aren't rudimentary cogs in a system.
     We have feelings, ambitions, insecurities, and reasons for whether or not we want to do certain things.
     Human-Focused Design optimizes for these feelings, motivations, and engagement as the basic foundation for designing the overall system as well as its functions.
+
