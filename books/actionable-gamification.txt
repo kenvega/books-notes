@@ -40,3 +40,11 @@ some kids who appear to not have discipline or work ethic
     because they see the bigger picture in those cases, the 'why' they are doing it
       they like the sense of acomplishment as well as the creativity to make a strategy
 
+some gamification professionals misunderstood gamification as just
+  PBLs: Points, Badges and Leaderboards
+    but these are just a shell of a game experience
+      games are played because of
+        the elements of strategy
+        great ways to spend time with friends
+        possible challenges one can set for oneself
+
