@@ -43,8 +43,14 @@ some kids who appear to not have discipline or work ethic
 some gamification professionals misunderstood gamification as just
   PBLs: Points, Badges and Leaderboards
     but these are just a shell of a game experience
-      games are played because of
+      when asked, gamers say they plays games because of
         the elements of strategy
         great ways to spend time with friends
         possible challenges one can set for oneself
 
+extrinsic motivation
+  you are motivated because of a goal or reward
+
+intrinsic motivation
+  the activity itself is fun and exciting
+    with or without a reward
