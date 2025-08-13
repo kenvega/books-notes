@@ -61,3 +61,13 @@ extrinsic motivation
 intrinsic motivation
   the activity itself is fun and exciting
     with or without a reward
+
+a good designer thinks first of this:
+  how do I want my users to feel?
+    Do I want them to be proud?
+    Should they be scared?
+    Anxious?
+  once they think of their goal for the intented experience
+    only then they of start to think about
+      how the game mechanics and elements can help the goal
+        because mechanics and elements are only a means to an end
