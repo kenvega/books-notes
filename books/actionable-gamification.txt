@@ -71,3 +71,19 @@ a good designer thinks first of this:
     only then they of start to think about
       how the game mechanics and elements can help the goal
         because mechanics and elements are only a means to an end
+
+octalysis: the framework that makes games engaging
+  8 core drives of gamification
+    meaning
+    accomplishment
+    ownership
+    scarcity
+    avoidance
+    unpredictability
+    social influence
+    empowerment
+
+  core drive 1: meaning / meaning & calling
+    person believes they are doing something greater than themselves
+    or believe they were chosen to take that action
+
