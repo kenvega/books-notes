@@ -86,4 +86,22 @@ octalysis: the framework that makes games engaging
   core drive 1: meaning / meaning & calling
     person believes they are doing something greater than themselves
     or believe they were chosen to take that action
+    example:
+      people contribute to wikipedia because they believe that way they protect humanity's knowledge
+
+  core drive 2: development & accomplishment
+    is our internal drive to make progress, develop skills and achieve mastery to overcome challenges
+    a trophy without a challenge has no meaning at all
+    this is where majority of PBLs focus on because is the easiest to design
+
+  core drive 3: empowerment of creativity & feedback
+    person in a creative process repeatedly figuring new things out and trying different combinations
+    apart from expressing creativity people also need to
+      see the results of their creativity, receive feedback and adjust in turn
+    if these techniques are properly designed to empower users to be more creative
+      then you don't have to continously add more content to a game to keep it fresh and engaging
+        "the brain entertains itself"
+
+  core drive 4: ownership & possession
+    
 
