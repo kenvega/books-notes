@@ -103,5 +103,21 @@ octalysis: the framework that makes games engaging
         "the brain entertains itself"
 
   core drive 4: ownership & possession
-    
+    users feel they own/control something and want to improve in what they own
+    this applies to things the user spends time on customizing. example: their avatar/profile
 
+  core drive 5: social influence & relatedness
+    people are motivated by social elements like
+      mentorship, social acceptance, social feedback, companionship, competition, and envy
+    when seeing someone is really good at a skill or owns something extraordinary
+      you become driven to attain the same
+
+  core drive 6: scarcity & impatience
+    people want things that are rare, exclusive, or immediatly unattainable
+    not being able to get something right now but in some hours makes them think about it all day
+    example
+      many people wanted to join facebook at the start simply because it felt very exclusive at that time
+
+  core drive 7: unpredictability & curiosity
+    being constantly engaged because you don't know what is going to happen next
+    
