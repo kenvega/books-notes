@@ -73,6 +73,13 @@ a good designer thinks first of this:
         because mechanics and elements are only a means to an end
 
 octalysis: the framework that makes games engaging
+
+  some of these drives make the user feel powerful but don't create urgency
+  others create urgency, obsession, even addiction but make the user feel bad
+
+  some drives are short-term extrinsically focused
+  others are long-term intrinsically focused
+
   8 core drives of gamification
     meaning
     accomplishment
