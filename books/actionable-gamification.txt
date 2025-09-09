@@ -135,4 +135,15 @@ octalysis: the framework that makes games engaging
     present in special offers for limited time
       people feel that if they don't act immediatly they would lose the opportunity to act forever
 
+  the cores in a graph
+
+                      meaning
+
+          accomplishment      empowerment
+
+      ownership                   social influence
+
+          scarcity            unpredictability
+
+                    avoidance
 
