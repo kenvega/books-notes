@@ -150,12 +150,12 @@ octalysis: the framework that makes games engaging
 white hat and black hat gamification
 
   based on the octalysis you can notice that
-    the top parts are considered positive motivations
+    the top parts are considered positive motivations (called white hat gamification)
       engaging because
         express your creativity
         feels successful at mastering a skill
 
-    the bottom parts are considered negative motivations
+    the bottom parts are considered negative motivations (called black hat gamification)
       engaging because
         you don't know what will happen next
         you constantly fear losing something
@@ -163,4 +163,8 @@ white hat and black hat gamification
 
       it will often leave a bad taste in your mouth
         even if you are consistently motivated to take these actions
+
+  being black hat doesn't necessarily mean that is bad
+    they are at the end just motivations that can produce healthy results
+      e.g. some people use those to go to the gym, eat healthier
 
