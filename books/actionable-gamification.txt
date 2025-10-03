@@ -217,4 +217,16 @@ how to apply octalysis to actual systems
   you can see a tool for testing the octalysis here
     https://www.yukaichou.com/octalysis-tool/
 
-  
+quick intro to level 2 octalysis and beyond
+
+  optimizing experiences across all four phases of the player/user journey
+
+  the phases are
+    discovery
+      why people would even want to try the experience
+    onboarding
+      where users learn the rules and tools to play the game
+    scaffolding
+      the regular journey of repeated actions towards a goal
+    engame
+      how do you retain your experienced users
