@@ -230,3 +230,9 @@ quick intro to level 2 octalysis and beyond
       the regular journey of repeated actions towards a goal
     engame
       how do you retain your experienced users
+
+  if at any phase none of the 8 Core Drives are present
+    there is no reason for the user to move on to the next phase
+    and the user simply drops out
+
+
