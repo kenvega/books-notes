@@ -231,8 +231,10 @@ quick intro to level 2 octalysis and beyond
     engame
       how do you retain your experienced users
 
-  if at any phase none of the 8 Core Drives are present
+  if at any of the phases none of the 8 Core Drives are present
     there is no reason for the user to move on to the next phase
     and the user simply drops out
 
+  the reason you are using a product in day 1
+    is often different from the reason you are using the product in day 100
 
