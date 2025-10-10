@@ -238,3 +238,13 @@ quick intro to level 2 octalysis and beyond
   the reason you are using a product in day 1
     is often different from the reason you are using the product in day 100
 
+explicit gamification
+  uses strategies that use applications that are obviously game-like
+  users know they are playing a game
+  e.g. McDonald's monopoly game
+        it's a game but the purpose is 
+          to get people go back to McDonald's
+  pros
+
+  cons
+
