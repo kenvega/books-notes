@@ -245,6 +245,14 @@ explicit gamification
         it's a game but the purpose is 
           to get people go back to McDonald's
   pros
-
+    more freedom of creativity for designers because users know they are playing a game
   cons
+    could be seen as childish, non-serious, distracting
+
+implicit gamification
+  e.g. linkedin progress bar, competitive bidding and feedback on ebay
+  pros
+    easier to implement and appropiate in more contexts
+  cons
+    convenient implementation can lead to lazy design
 
