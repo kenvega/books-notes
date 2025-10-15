@@ -256,3 +256,10 @@ implicit gamification
   cons
     convenient implementation can lead to lazy design
 
+fields of gamification in industries
+  product gamification
+    users today are less tolerant to badly designed products
+    
+  workplace gamification
+  marketing gamification
+  lifestyle gamification
