@@ -258,8 +258,18 @@ implicit gamification
 
 fields of gamification in industries
   product gamification
+    is making your product more engaging, fun and inspirational through game design
     users today are less tolerant to badly designed products
-    
+
+    remember: no one *has* to play a game, but they *have* to go to work
+                design your product so that users are compelled to use it
+
+    focus on making reasons for people to use your product (traction)
+      don't focus too much on what the user can do with your product
+      focus on why your user why would want to do those things
+
   workplace gamification
+    
+
   marketing gamification
   lifestyle gamification
