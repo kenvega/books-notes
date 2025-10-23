@@ -269,7 +269,13 @@ fields of gamification in industries
       focus on why your user why would want to do those things
 
   workplace gamification
-    
+    creating environment and systems that inspire and motivate people to their work
+      some people show up to work to earn their paycheck and not lose their jobs
+        so these people work only hard enough to do that
+
+        to counteract this, consider that
+          everyone can actually be motivated for something that is worth their cause
+          is bad environmental and cultural design that demotivates them
 
   marketing gamification
   lifestyle gamification
