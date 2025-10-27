@@ -278,4 +278,14 @@ fields of gamification in industries
           is bad environmental and cultural design that demotivates them
 
   marketing gamification
+    creating marketing campaings that engage users in an unique experience for your product/brand
+
+    social media marketing is to create trust in your first unknown product
+      but also have in mind social media is merely a channel for engaging content
+        so social media alone does not motivate the user
+
   lifestyle gamification
+    involves applying gamification principles and the 8 Core Drives
+      into daily habits and activities like
+        managing your to-do list, exercising more often, waking up on time
+        eating healthier, learning a new language, etc
