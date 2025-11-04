@@ -290,8 +290,14 @@ fields of gamification in industries
         managing your to-do list, exercising more often, waking up on time
         eating healthier, learning a new language, etc
 
-The First Core Drive - Epic Meaning & Calling
+The First Core Drive - Epic Meaning & Calling (white hat core)
 
+  people are motivated because they believe they are engaged in something bigger than themselves
+
+    games often do this: _you are the only one qualified to save the world_
+
+  people who police content uploaded to wikipedia do it because of this core
+    they feel they are protecting humanity's knowledge: something greater than themselves
 
 
 * If there is only one thing you remember after reading this book
