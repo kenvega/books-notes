@@ -324,6 +324,13 @@ The First Core Drive - Epic Meaning & Calling (white hat core)
           they think: the map is broken! i need to go fix it!
             so users actually become forgiving for some errors when there is a mission
 
+You could apply octalysis framework to things like parenting
+  usually they use 2 core drives
+      Core Drive 2: Development & Accomplishment
+        reward when the child behaves
+      Core Drive 8: Loss & Avoidance
+        punish/ground when the child does not behave
+
 * If there is only one thing you remember after reading this book
   it should be to focus on motivation by thinking through the 8 Core Drives
   instead of focusing on features and functionalities
