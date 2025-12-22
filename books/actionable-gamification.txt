@@ -383,6 +383,10 @@ The Second Core Drive - Development & Accomplishment (white hat core)
 
   see games as "unnecesary obstacles that we volunteer to tackle"
 
+  challenges and limitations are what makes a game fun
+    by adding unnecesary obstacles
+      the player feels acomplished once such challenges are overcome
+
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
