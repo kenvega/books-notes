@@ -394,6 +394,10 @@ You could apply octalysis framework to things like parenting
       Core Drive 8: Loss & Avoidance
         punish/ground when the child does not behave
 
+
+
+
+
 * If there is only one thing you remember after reading this book
   it should be to focus on motivation by thinking through the 8 Core Drives
   instead of focusing on features and functionalities
