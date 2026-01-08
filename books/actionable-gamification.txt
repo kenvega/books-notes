@@ -387,22 +387,20 @@ The Second Core Drive - Development & Accomplishment (white hat core)
     by adding unnecesary obstacles
       the player feels acomplished once such challenges are overcome
 
+  game techniques within Development & Accomplishment
+    torture break (game technique #66)
+      a user must wait some time regardless of their actions
+        (explored also in core drive 6: scarcity & impatience)
+
+    countdown timer (game technique #65) and last mile drive (game technique #53)
+      the user feels is so close to reach the goal that it rushes to complete it
+
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
         reward when the child behaves
       Core Drive 8: Loss & Avoidance
         punish/ground when the child does not behave
-
-
-
-
-
-
-
-
-
-
 
 * If there is only one thing you remember after reading this book
   it should be to focus on motivation by thinking through the 8 Core Drives
