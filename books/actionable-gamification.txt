@@ -414,6 +414,13 @@ The Second Core Drive - Development & Accomplishment (white hat core)
     if a user spends 4 seconds in front of a screen and don't know what do
       they feel stupid and will start to disengage emotionally
 
+  Glowing Choice (game technique #28)
+    in candy crush if you don't make a move for a few seconds a glowing choice appears
+      it's normally not the optimal move and if you follow those choices you will eventually lose
+        but Candy Crush understands that
+          feeling a sense of progress and ultimately losing feels is much better than
+            feeling stuck and confused
+
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
