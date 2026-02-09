@@ -441,6 +441,10 @@ The Second Core Drive - Development & Accomplishment (white hat core)
         and the only way to sort it out is taking long steps of negotiation
           that's how buying in eBay feels sometimes compared to Amazon
 
+  how is UX/User-centered design different from human-focused design/gamification? 
+    the first one focuses on making the user do something easier
+      the second focuses on motivating the user to do something in the first place
+
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
