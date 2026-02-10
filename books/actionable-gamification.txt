@@ -445,6 +445,9 @@ The Second Core Drive - Development & Accomplishment (white hat core)
     the first one focuses on making the user do something easier
       the second focuses on motivating the user to do something in the first place
 
+  game techniques within Epic Meaning & Calling
+    progress bars (game technique #4)
+
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
