@@ -457,8 +457,12 @@ The Second Core Drive - Development & Accomplishment (white hat core)
             example: twitter introduced follows one-way
                       so people were trying to reach 1million followers first
 
-    achivement symbols (game technique #2)
-      
+    achievement symbols (game technique #2)
+      these can be badges, stars, trophies, medals, etc
+        the important is they symbolize 'achievement'
+          if you give achievements for things not worth it
+            user will could even feel ofensed with that
+              e.g. achievement for clicking a button (everyone can do that)
 
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
