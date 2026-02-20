@@ -465,6 +465,9 @@ The Second Core Drive - Development & Accomplishment (white hat core)
               e.g. achievement for clicking a button (everyone can do that)
 
     status points (game technique #1)
+      for keeping track of progress
+        users will feel a game is shallow if
+          the game gives you points to do marketing for you
 
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
