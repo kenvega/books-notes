@@ -469,6 +469,8 @@ The Second Core Drive - Development & Accomplishment (white hat core)
         users will feel a game is shallow if
           the game gives you points to do marketing for you
 
+    leaderboards (game technique #3)
+
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
