@@ -470,6 +470,9 @@ The Second Core Drive - Development & Accomplishment (white hat core)
           the game gives you points to do marketing for you
 
     leaderboards (game technique #3)
+      to effectively integrate it the user needs to feel that
+        they can quickly recognize the items that drives them to win-state
+          if there is no change of achievement, there is no action
 
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
