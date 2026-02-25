@@ -474,6 +474,11 @@ The Second Core Drive - Development & Accomplishment (white hat core)
         they can quickly recognize the items that drives them to win-state
           if there is no change of achievement, there is no action
 
+  always focus on how you want your users to feel
+    not on what elements you want to use
+
+The Thrid Core Drive - Empowerment of Creativity & Feedback (white hat core)
+
 You could apply octalysis framework to things like parenting
   usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
