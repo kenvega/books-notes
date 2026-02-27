@@ -482,8 +482,8 @@ The Thrid Core Drive - Empowerment of Creativity & Feedback (white hat core)
     aren't most games short-lived?
       wouldn't the companies be shooting their foot by implementing gamification?
 
-You could apply octalysis framework to things like parenting
-  usually they use 2 core drives
+* You could apply octalysis framework to things like parenting
+    usually they use 2 core drives
       Core Drive 2: Development & Accomplishment
         reward when the child behaves
       Core Drive 8: Loss & Avoidance
