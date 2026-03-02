@@ -481,6 +481,9 @@ The Thrid Core Drive - Empowerment of Creativity & Feedback (white hat core)
   gamification fatigue?
     aren't most games short-lived?
       wouldn't the companies be shooting their foot by implementing gamification?
+        remember that there is no real purpose for playing a game
+          people 'never' have to play a game
+            but the system you design actually has a purpose to it
 
 * You could apply octalysis framework to things like parenting
     usually they use 2 core drives
